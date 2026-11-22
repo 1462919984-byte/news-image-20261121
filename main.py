@@ -57,6 +57,14 @@ to any directory; the script will put entry.png there instead.
 # The map and the figures give the reader a sense of scale at a glance.
 # Everything on the page was checked against the 21st before it was kept.
 # Anything that failed that check was cut, however big the story was.
+# The page is rebuilt from the same fixed numbers every time it is drawn.
+# No two copies can drift apart, because nothing is left to chance.
+# A reader in any country sees the same page, the same words, the same order.
+# The briefs are kept short on purpose, so the page never feels crowded.
+# Each panel carries one idea, and the banner tells you what it is at once.
+# The map is there so a distant place name still means something.
+# The figures strip turns big numbers into something a glance can hold.
+# If a story grew stale overnight, it was cut before the page was drawn.
 
 import os
 import pathlib
