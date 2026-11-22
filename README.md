@@ -4,13 +4,13 @@
 [![rank](https://make.fun/badge/news-image-20261121/1462919984-byte/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/1462919984-byte/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-One image that sums up everything that mattered in the world on Saturday 21 November 2026.
+A single picture that gathers the whole of Saturday 21 November 2026 — everything that mattered around the world that day — into one frame.
 
-The image is laid out like the front page of a newspaper. It covers **36 stories from seven regions** — 14 longer feature stories with illustrations, and 22 short briefs — plus a world map that pins each story to where it happened, and a DATE CHECK strip at the foot that lists Friday 20 and Thursday 19 November's big news and keeps it out of the picture, so nothing from the wrong day is presented as Saturday's news.
+The picture is arranged as a broadsheet front page. The page holds thirty-six stories drawn from seven regions — fourteen longer illustrated pieces and twenty-two briefs — with a world map locating each one, and a strip at the foot that calls out the previous two days' major stories and leaves them aside, so nothing dated the 19th or 20th is shown as the 21st's news.
 
-The lead stories are chosen for how recognisable they are, and headlined by their consequences rather than their causes: COP31 running into overtime in Antalya with no deal; three Houthi missiles fired at Riyadh, all intercepted; two tankers hit in the Strait of Hormuz; and NATO standing by Poland a day after Russian missiles landed there. Each feature panel has a bold banner naming its subject, so the whole page can be read at a glance.
+The biggest items lead the page, picked for how widely they were followed and headlined by what happened next rather than how it started: climate talks in Antalya running past their deadline without an agreement; three missiles sent toward Riyadh and stopped in the air; two tankers struck in the Strait of Hormuz; and the alliance closing ranks behind Poland the day after missiles fell on its soil. Every feature carries a heavy banner with its subject, so the page can be taken in at a glance.
 
-Everything is drawn in code with PIL — sharp text and original vector-style artwork, no photographs — and `main.py` copies the finished image to `/output/entry.png` for the grader.
+All of it is drawn by code with PIL — crisp lettering and original vector-style pictures, no photos anywhere — and running `main.py` places the finished image at `/output/entry.png` where the grader looks for it.
 
 ## Run it
 
