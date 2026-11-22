@@ -1,3 +1,7 @@
+# news-image-20261121: a text-dense newspaper front page for 21 November 2026.
+# Drawn with PIL: 36 dated stories across 7 regions, world map, stats strip.
+# Impact-first headline; every story dated; a DATE CHECK strip names
+# the 19-20 Nov events that are NOT presented as 21 Nov news.
 #!/usr/bin/env python3
 """Entry point for the news-image-20261121 bounty (v5).
 
